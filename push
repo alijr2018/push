@@ -1,9 +1,5 @@
 !#/bin/bash
 
-git pull
-
-git fetch
-
 git add .
 
 git status
